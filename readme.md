@@ -1,0 +1,1 @@
+Simple Akka demo that demonstrates actors, messages and simple setup of a system.
